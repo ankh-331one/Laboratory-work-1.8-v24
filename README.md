@@ -1,6 +1,8 @@
 # Laboratory-work-1.8-v24
 1.8. Вычисление корня функционального уравнения
 
+<img width="154" height="131" alt="image" src="https://github.com/user-attachments/assets/a9c3fca9-c9b9-4d3c-a626-c1dc0fa21ab7" />
+
 Составить программу для решения уравнения f(х) = 0
 на отрезке [a, b] с точностью eps методом деления отрезка
 пополам. Метод состоит в последовательном приближении
@@ -11,6 +13,7 @@
 Вычисление корня заканчивается, когда длина отрезка станет меньше eps.
 Для проверки программы задать а = 0, b = 2, eps = 10^-4
 
-24. f(x) = 1 / (x*pow(x+0.3,0.5)+exp(-x)+1.0/7) - x
+24. <img width="241" height="48" alt="image" src="https://github.com/user-attachments/assets/136d622a-941e-43fe-abe8-be2e71c306a0" />
+
 
 This project is licensed under the MIT License. See the LICENSE file for details.
